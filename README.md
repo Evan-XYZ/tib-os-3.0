@@ -1,6 +1,6 @@
 # TIB OS v3.0 — The Indie Tech Investor Operating System
 
-> **思想开源，数据收费。**
+> **思想开源，欢迎定制与深度交流。**
 >
 > 投资的价值在于深度思考和逻辑博弈，而非重复性的数据录入。
 
